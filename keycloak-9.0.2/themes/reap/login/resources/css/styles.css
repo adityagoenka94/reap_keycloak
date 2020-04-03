@@ -1,0 +1,22 @@
+.login-pf body {
+    background: url("../img/reapbenefit.png") no-repeat center center fixed;
+    background-size: 400px;
+    background-position: 5% 5%;
+    line-height: 2.666667;
+}
+
+#kc-login {
+    background-color: #00695c;
+    border-color: #88c03f;
+    background-image: none;
+    /* background-image: linear-gradient(to bottom,#02b8a1 0,#00695c 100%); */
+}
+
+#kc-header-wrapper {
+    /* font-size: 30px; */
+    padding: 150px 10px 20px;
+}
+
+.card-pf  {
+    margin-top: 100px;
+}
